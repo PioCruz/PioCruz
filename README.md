@@ -11,7 +11,7 @@
 
 ### Tech Stack
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,react,python,vite,ts,firebase,next,supabase,vercel,postgresql,mongodb,figma,arduino,blender" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,react,python,vite,ts,firebase,next,supabase,vercel,postgresql,mongodb,docker,figma,aws,arduino,blender" />
 </a>
 
 ### Contact me here!
