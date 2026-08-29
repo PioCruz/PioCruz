@@ -5,7 +5,7 @@
 <h3><code>pio@github ~ $ whoami</code></h3>
 <div align="center">
 <img src="./pio-ascii.svg" width="370" align="top" />
-<img src="./wordmark-rock.svg" width="490" align="top" />
+<img src="./wordmark-spin.svg" width="490" align="top" />
 </div>
 
 <h3><code>pio@github ~ $ ./contributions.sh</code></h3>
