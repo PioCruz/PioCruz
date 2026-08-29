@@ -5,7 +5,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="./pio-ascii.svg" width="370" /></td>
-    <td valign="top"><img src="./wordmark-rock.svg" width="490" /></td>
+    <td valign="top"><img src="./wordmark-spin.svg" width="490" /></td>
   </tr>
 </table>
 
