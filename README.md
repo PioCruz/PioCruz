@@ -4,13 +4,8 @@
 
 <h3><code>pio@github ~ $ whoami</code></h3>
 <div align="center">
-<<<<<<< HEAD
-  <img src="./pio-ascii.svg" width="370" align="middle" />
-  <img src="./wordmark-rock.svg" width="490" align="middle" />
-=======
-<img src="./pio-ascii.svg" width="370" />
-<img src="./wordmark-spin.svg" width="490" />
->>>>>>> 8ee2e0021274a4fe9436f29feacea4e09be91237
+<img src="./pio-ascii.svg" width="370" align="middle" />
+<img src="./wordmark-spin.svg" width="490" align="middle" />
 </div>
 
 <h3><code>pio@github ~ $ ./contributions.sh</code></h3>
