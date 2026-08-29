@@ -2,11 +2,12 @@
 
 <div align="center">
 
-<h3><code>pio@github ~ $ whoami</code></h3>
-<div align="center">
-<img src="./pio-ascii.svg" width="370" align="middle" />
-<img src="./wordmark-spin.svg" width="490" align="middle" />
-</div>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="./pio-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./wordmark-rock.svg" width="490" /></td>
+  </tr>
+</table>
 
 <h3><code>pio@github ~ $ ./contributions.sh</code></h3>
 <img src="./streak.svg" width="860" />
