@@ -120,4 +120,4 @@ if __name__ == "__main__":
         json.dump(data, f, indent=2)
     print(f"wrote {OUT_PATH}: {data['total_contributions']} contributions, "
           f"current streak {data['current_streak']['length']}, "
-          f"longest streak {data['longest_streak']['length']}")clear
+          f"longest streak {data['longest_streak']['length']}")

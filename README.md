@@ -10,8 +10,6 @@
   </tr>
 </table>
 
-<br><br>
-
 <h3><code>pio@github ~ $ ./contributions.sh</code></h3>
 <img src="./streak.svg" width="860" />
 
