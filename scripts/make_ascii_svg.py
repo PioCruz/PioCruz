@@ -67,6 +67,7 @@ px = im.load()
 
 STATIC = bool(os.environ.get("STATIC"))  # emit frozen state for previews
 
+
 def center_grid(rows):
     """Shift non-blank ascii content vertically so it's centered top-to-bottom."""
     non_blank_rows = [i for i, r in enumerate(rows) if r.strip()]
@@ -82,7 +83,8 @@ def center_grid(rows):
             break
         new_rows[pad_top + new_r] = rows[old_r]
     return new_rows
-    
+
+
 rows_txt = []
 for y in range(ROWS):
     chars = []
@@ -96,6 +98,8 @@ for y in range(ROWS):
         idx = max(0, min(len(RAMP) - 1, idx))
         chars.append(RAMP[idx])
     rows_txt.append("".join(chars))
+
+rows_txt = center_grid(rows_txt)   # vertically center the figure in the grid
 
 art_top = TITLEBAR_H + PAD * 0.35
 
