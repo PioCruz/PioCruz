@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<div align="center"><img src="./pio-ascii.svg" width="350" align="top" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="./wordmark-rock.svg" width="460" align="top" /></div>
+<div align="center"><img src="./pio-ascii.svg" width="350" align="top" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="./wordmark-spin.svg" width="460" align="top" /></div>
 
 <h3><code>pio@github ~ $ ./contributions.sh</code></h3>
 <img src="./streak.svg" width="860" />
