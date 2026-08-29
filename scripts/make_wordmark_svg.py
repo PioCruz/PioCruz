@@ -66,7 +66,7 @@ TILT_DEG = float(os.environ.get("WORDMARK_TILT", 4.0))
 # the three letters the same size and lets the extrusion carry the 3D on its own.
 CAM_DIST = 6.0         # camera distance in world units (1.0 == wordmark width)
 FOCAL = 4.15
-FIT = 0.77             # fraction of the grid the widest pose may use
+FIT = 0.70             # fraction of the grid the widest pose may use
 
 # sparse/dim -> dense/bright. index 0 is blank.
 RAMP = " .`:-=+*csS#%@"
