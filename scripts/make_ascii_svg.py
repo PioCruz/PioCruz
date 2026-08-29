@@ -67,6 +67,22 @@ px = im.load()
 
 STATIC = bool(os.environ.get("STATIC"))  # emit frozen state for previews
 
+def center_grid(rows):
+    """Shift non-blank ascii content vertically so it's centered top-to-bottom."""
+    non_blank_rows = [i for i, r in enumerate(rows) if r.strip()]
+    if not non_blank_rows:
+        return rows
+    row_min, row_max = non_blank_rows[0], non_blank_rows[-1]
+    content_h = row_max - row_min + 1
+    pad_top = max(0, (ROWS - content_h) // 2)
+
+    new_rows = [" " * COLS for _ in range(ROWS)]
+    for new_r, old_r in enumerate(range(row_min, row_max + 1)):
+        if pad_top + new_r >= ROWS:
+            break
+        new_rows[pad_top + new_r] = rows[old_r]
+    return new_rows
+    
 rows_txt = []
 for y in range(ROWS):
     chars = []
