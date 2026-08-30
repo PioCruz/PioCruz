@@ -1,13 +1,13 @@
 {
   "username": "PioCruz",
-  "generated_at": "2026-08-29T09:30:35Z",
+  "generated_at": "2026-08-30T11:57:14Z",
   "range": {
-    "start": "2025-08-24",
-    "end": "2026-08-29"
+    "start": "2025-08-31",
+    "end": "2026-08-30"
   },
-  "total_contributions": 98,
+  "total_contributions": 151,
   "active_days": 40,
-  "avg_per_active_day": 2.5,
+  "avg_per_active_day": 3.8,
   "current_streak": {
     "length": 1,
     "start": "2026-08-29",
@@ -19,8 +19,8 @@
     "end": "2026-04-21"
   },
   "best_day": {
-    "date": "2026-04-17",
-    "count": 8
+    "date": "2026-08-29",
+    "count": 57
   },
   "monthly": [
     {
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-08",
-      "total": 6
+      "total": 59
     }
   ],
   "days": [
-    {
-      "date": "2025-08-24",
-      "count": 0
-    },
-    {
-      "date": "2025-08-25",
-      "count": 0
-    },
-    {
-      "date": "2025-08-26",
-      "count": 0
-    },
-    {
-      "date": "2025-08-27",
-      "count": 0
-    },
-    {
-      "date": "2025-08-28",
-      "count": 0
-    },
-    {
-      "date": "2025-08-29",
-      "count": 0
-    },
-    {
-      "date": "2025-08-30",
-      "count": 0
-    },
     {
       "date": "2025-08-31",
       "count": 0
@@ -1559,7 +1531,11 @@
     },
     {
       "date": "2026-08-29",
-      "count": 4
+      "count": 57
+    },
+    {
+      "date": "2026-08-30",
+      "count": 0
     }
   ]
 }
